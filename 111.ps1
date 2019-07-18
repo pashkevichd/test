@@ -9,3 +9,5 @@ Get-ADClaimType
 
 Get-AdcsDatabaseRow
 Get-ASRPolicy
+get-service 
+Get-Process
