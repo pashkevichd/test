@@ -1,5 +1,5 @@
 get-service
-
+get
 Get-Process
 erfreferfreerfreferfre 
 Get-AdlCatalogItem
