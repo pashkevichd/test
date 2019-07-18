@@ -11,3 +11,5 @@ Get-AdcsDatabaseRow
 Get-ASRPolicy
 get-service 
 Get-Process
+get-service
+Get-ADComputer -filter *
